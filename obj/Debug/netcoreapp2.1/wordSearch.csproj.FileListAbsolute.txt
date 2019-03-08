@@ -1,0 +1,11 @@
+/Users/johntodd/Projects/wordSearch/obj/Debug/netcoreapp2.1/wordSearch.csprojAssemblyReference.cache
+/Users/johntodd/Projects/wordSearch/obj/Debug/netcoreapp2.1/wordSearch.csproj.CoreCompileInputs.cache
+/Users/johntodd/Projects/wordSearch/obj/Debug/netcoreapp2.1/wordSearch.AssemblyInfoInputs.cache
+/Users/johntodd/Projects/wordSearch/obj/Debug/netcoreapp2.1/wordSearch.AssemblyInfo.cs
+/Users/johntodd/Projects/wordSearch/bin/Debug/netcoreapp2.1/wordSearch.deps.json
+/Users/johntodd/Projects/wordSearch/bin/Debug/netcoreapp2.1/wordSearch.runtimeconfig.json
+/Users/johntodd/Projects/wordSearch/bin/Debug/netcoreapp2.1/wordSearch.runtimeconfig.dev.json
+/Users/johntodd/Projects/wordSearch/bin/Debug/netcoreapp2.1/wordSearch.dll
+/Users/johntodd/Projects/wordSearch/bin/Debug/netcoreapp2.1/wordSearch.pdb
+/Users/johntodd/Projects/wordSearch/obj/Debug/netcoreapp2.1/wordSearch.dll
+/Users/johntodd/Projects/wordSearch/obj/Debug/netcoreapp2.1/wordSearch.pdb
