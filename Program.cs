@@ -53,7 +53,7 @@ namespace wordSearch
 
                         if (sentenceSegment == keyword)
                         {
-                            keywordFound = true;
+                            keywordFound = gtrue;
                         }
                         else
                         {
